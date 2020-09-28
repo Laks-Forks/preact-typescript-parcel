@@ -2,13 +2,14 @@
 
 This is starter for using Preact + Typescript + Parcel.
 
+```
 + src
     +-- components
         +-- In here contain components for pages inside folder
         +-- app.tsx, this for layouting and routing.
     +-- pages
         +-- In here contain routable pages for defined on components/app.tsx
-
+```
 
 ## How to use this
 
@@ -24,3 +25,7 @@ yarn init -y
 yarn add typescript parcel-bundler -D
 yarn add preact
 ```
+
+### LICENSE
+[UNLICENSE](./LICENSE)
+Sublicense as you want.
