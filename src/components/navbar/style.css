@@ -1,0 +1,19 @@
+body{
+    margin: unset;
+}
+
+.navbar{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    background-color: darkorchid;
+    color: #ffffff;
+    padding-top: 0.91rem;
+    padding-bottom: 0.93rem;
+    margin-top: 0px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
